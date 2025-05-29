@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+nltk
+pandas
+wordcloud
+matplotlib
+python-dotenv
+google-generative-ai
