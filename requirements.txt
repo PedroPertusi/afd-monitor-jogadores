@@ -5,4 +5,4 @@ pandas
 wordcloud
 matplotlib
 python-dotenv
-google-generative-ai
+google-generativeai
